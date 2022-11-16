@@ -1,0 +1,16 @@
+C:\Users\Владимир\source\repos\ExamplePLCpointReader\ExamplePLCpointReader\obj\Debug\net5.0\ExamplePLCpointReader.csproj.AssemblyReference.cache
+C:\Users\Владимир\source\repos\ExamplePLCpointReader\ExamplePLCpointReader\obj\Debug\net5.0\ExamplePLCpointReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владимир\source\repos\ExamplePLCpointReader\ExamplePLCpointReader\obj\Debug\net5.0\ExamplePLCpointReader.AssemblyInfoInputs.cache
+C:\Users\Владимир\source\repos\ExamplePLCpointReader\ExamplePLCpointReader\obj\Debug\net5.0\ExamplePLCpointReader.AssemblyInfo.cs
+C:\Users\Владимир\source\repos\ExamplePLCpointReader\ExamplePLCpointReader\obj\Debug\net5.0\ExamplePLCpointReader.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\ExamplePLCpointReader\ExamplePLCpointReader\bin\Debug\net5.0\ExamplePLCpointReader.exe
+C:\Users\Владимир\source\repos\ExamplePLCpointReader\ExamplePLCpointReader\bin\Debug\net5.0\ExamplePLCpointReader.deps.json
+C:\Users\Владимир\source\repos\ExamplePLCpointReader\ExamplePLCpointReader\bin\Debug\net5.0\ExamplePLCpointReader.runtimeconfig.json
+C:\Users\Владимир\source\repos\ExamplePLCpointReader\ExamplePLCpointReader\bin\Debug\net5.0\ExamplePLCpointReader.runtimeconfig.dev.json
+C:\Users\Владимир\source\repos\ExamplePLCpointReader\ExamplePLCpointReader\bin\Debug\net5.0\ExamplePLCpointReader.dll
+C:\Users\Владимир\source\repos\ExamplePLCpointReader\ExamplePLCpointReader\bin\Debug\net5.0\ExamplePLCpointReader.pdb
+C:\Users\Владимир\source\repos\ExamplePLCpointReader\ExamplePLCpointReader\obj\Debug\net5.0\ExamplePLCpointReader.dll
+C:\Users\Владимир\source\repos\ExamplePLCpointReader\ExamplePLCpointReader\obj\Debug\net5.0\refint\ExamplePLCpointReader.dll
+C:\Users\Владимир\source\repos\ExamplePLCpointReader\ExamplePLCpointReader\obj\Debug\net5.0\ExamplePLCpointReader.pdb
+C:\Users\Владимир\source\repos\ExamplePLCpointReader\ExamplePLCpointReader\obj\Debug\net5.0\ExamplePLCpointReader.genruntimeconfig.cache
+C:\Users\Владимир\source\repos\ExamplePLCpointReader\ExamplePLCpointReader\obj\Debug\net5.0\ref\ExamplePLCpointReader.dll
